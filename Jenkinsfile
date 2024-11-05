@@ -27,6 +27,6 @@ pipeline {
 				sh "mvn -Dmaven.compile.skip"
 			}
 		}
-		// change
+		// change 2
 	}
 }
